@@ -1,3 +1,7 @@
+fork on 2020年8月31日
+
+翻译版本为5.7，非8.0
+
 # Mysql8.0_Reference_Manual_Translation
 这里是MySQL8.0官方文档的中文翻译，欢迎有兴趣的同学一起参与，共同为开源世界添砖加瓦！
 
